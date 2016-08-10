@@ -659,8 +659,8 @@
 	  },
 	  "button": {
 	    "flex": 1,
-	    "paddingTop": 35,
-	    "paddingBottom": 35,
+	    "paddingTop": 25,
+	    "paddingBottom": 25,
 	    "textAlign": "center",
 	    "color": "#ff6c00"
 	  },
